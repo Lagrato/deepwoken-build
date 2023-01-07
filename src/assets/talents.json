@@ -1,0 +1,3586 @@
+[
+    {
+        "name": "Conditioned Runner",
+        "requirements": [
+            {
+                "fortitude": 5,
+                "agility": 15
+            }
+        ]
+    },
+    {
+        "name": "Reinforced Armor",
+        "requirements": [
+            {
+                "fortitude": 90
+            }
+        ]
+    },
+    {
+        "name": "Everchanging Aegis",
+        "requirements": [
+            {
+                "intelligence": 15
+            }
+        ]
+    },
+    {
+        "name": "Dazing Finisher",
+        "requirements": [
+            {
+                "charisma": 25,
+                "requires": "Charismatic Cast, Locked out by Vanishing Follow-Up"
+            }
+        ]
+    },
+    {
+        "name": "Exoskeleton",
+        "requirements": [
+            {
+                "fortitude": 40
+            }
+        ]
+    },
+    {
+        "name": "Exploding Mirage Clone",
+        "requirements": [
+            {
+                "flame": 75,
+                "requires": "Mirage Clone"
+            }
+        ]
+    },
+    {
+        "name": "Mirage Clone",
+        "requirements": [
+            {
+                "flame": 65
+            }
+        ]
+    },
+    {
+        "name": "Neuroplasticity",
+        "requirements": [
+            {
+                "intelligence": 35
+            },
+            {
+                "willpower": 35
+            },
+            {
+                "charisma": 35
+            }
+        ]
+    },
+    {
+        "name": "True Ether Bullets",
+        "requirements": [
+            {
+                "intelligence": 30,
+                "light": 20,
+                "requires": "Ether Bullets"
+            }
+        ]
+    },
+    {
+        "name": "Frozone",
+        "requirements": [
+            {
+                "frost": 50,
+                "requires": "Ice Skate"
+            }
+        ]
+    },
+    {
+        "name": "Phoenix Flames",
+        "requirements": [
+            {
+                "willpower": 40,
+                "flame": 75,
+                "requires": "Immolation"
+            }
+        ]
+    },
+    {
+        "name": "Grand Skewer",
+        "requirements": [
+            {
+                "thunder": 30,
+                "requires": "Grand Javelin"
+            }
+        ]
+    },
+    {
+        "name": "Adept",
+        "requirements": null
+    },
+    {
+        "name": "Ghost",
+        "requirements": [
+            {
+                "agility": 40,
+                "requires": "Risky Moves"
+            }
+        ]
+    },
+    {
+        "name": "Million Ton Piercer",
+        "requirements": [
+            {
+                "strength": 90
+            }
+        ]
+    },
+    {
+        "name": "Vanishing Follow-up",
+        "requirements": [
+            {
+                "agility": 40
+            }
+        ]
+    },
+    {
+        "name": "A World Without Song",
+        "requirements": [
+            {
+                "power": 20,
+                "gale": 75,
+                "requires": "Silencer's Edge"
+            }
+        ]
+    },
+    {
+        "name": "Golden Tongue",
+        "requirements": [
+            {
+                "charisma": 40
+            }
+        ]
+    },
+    {
+        "name": "Another Man's Trash",
+        "requirements": [
+            {
+                "agility": 10,
+                "charisma": 35,
+                "requires": "Master Thief"
+            }
+        ]
+    },
+    {
+        "name": "Command: Live",
+        "requirements": [
+            {
+                "charisma": 75,
+                "requires": "Vow Of Mastery"
+            }
+        ]
+    },
+    {
+        "name": "Showstopper",
+        "requirements": [
+            {
+                "strength": 40
+            }
+        ]
+    },
+    {
+        "name": "Return to the Dark Ages",
+        "requirements": [
+            {
+                "power": 30
+            }
+        ]
+    },
+    {
+        "name": "Blood Frenzy",
+        "requirements": [
+            {
+                "agility": 5,
+                "requires": "Time To Go"
+            }
+        ]
+    },
+    {
+        "name": "Wyvern's Claw",
+        "requirements": [
+            {
+                "strength": 20,
+                "medium": 25
+            }
+        ]
+    },
+    {
+        "name": "Aerogliding",
+        "requirements": [
+            {
+                "agility": 30,
+                "gale": 30
+            }
+        ]
+    },
+    {
+        "name": "Stifled Jump",
+        "requirements": [
+            {
+                "strength": 30,
+                "gale": 50
+            }
+        ]
+    },
+    {
+        "name": "Subsistence",
+        "requirements": [
+            {
+                "intelligence": 35,
+                "requires": "Apothecary"
+            }
+        ]
+    },
+    {
+        "name": "Evasive Expert",
+        "requirements": [
+            {
+                "agility": 15,
+                "requires": "Swift Rebound"
+            }
+        ]
+    },
+    {
+        "name": "Last Laugh",
+        "requirements": [
+            {
+                "flame": 30,
+                "requires": "Flame Within"
+            }
+        ]
+    },
+    {
+        "name": "Carnivore",
+        "requirements": [
+            {
+                "strength": 5,
+                "willpower": 5
+            }
+        ]
+    },
+    {
+        "name": "Grand Feast",
+        "requirements": [
+            {
+                "strength": 5,
+                "willpower": 5,
+                "requires": "Carnivore"
+            }
+        ]
+    },
+    {
+        "name": "Lightspeed Reflexes",
+        "requirements": [
+            {
+                "agility": 20,
+                "intelligence": 20
+            }
+        ]
+    },
+    {
+        "name": "Heavy Fatigue",
+        "requirements": [
+            {
+                "heavy": 30,
+                "requires": "Greataxe"
+            }
+        ]
+    },
+    {
+        "name": "Rending Impact",
+        "requirements": [
+            {
+                "heavy": 50,
+                "requires": "Greataxe"
+            }
+        ]
+    },
+    {
+        "name": "Safety Dance",
+        "requirements": [
+            {
+                "power": 40
+            }
+        ]
+    },
+    {
+        "name": "Observation",
+        "requirements": [
+            {
+                "agility": 20
+            }
+        ]
+    },
+    {
+        "name": "Risky Moves",
+        "requirements": [
+            {
+                "agility": 15
+            }
+        ]
+    },
+    {
+        "name": "Eureka",
+        "requirements": [
+            {
+                "intelligence": 30
+            }
+        ]
+    },
+    {
+        "name": "Overflowing Dam",
+        "requirements": [
+            {
+                "intelligence": 40
+            }
+        ]
+    },
+    {
+        "name": "Perfect Flash",
+        "requirements": [
+            {
+                "intelligence": 20
+            }
+        ]
+    },
+    {
+        "name": "Defiance",
+        "requirements": [
+            {
+                "willpower": 50
+            }
+        ]
+    },
+    {
+        "name": "Destructive Recovery",
+        "requirements": [
+            {
+                "power": 25,
+                "heavy": 20,
+                "requires": "Harsh Response, Greatsword"
+            }
+        ]
+    },
+    {
+        "name": "Blood Shadow",
+        "requirements": [
+            {
+                "fortitude": 50,
+                "shadow": 1,
+                "requires": "Reinforce"
+            }
+        ]
+    },
+    {
+        "name": "Grand Support",
+        "requirements": [
+            {
+                "fortitude": 50,
+                "requires": "Reinforce"
+            }
+        ]
+    },
+    {
+        "name": "Lord Commander",
+        "requirements": [
+            {
+                "fortitude": 50,
+                "requires": "Reinforce"
+            }
+        ]
+    },
+    {
+        "name": "Knife's Journey",
+        "requirements": [
+            {
+                "light": 30
+            }
+        ]
+    },
+    {
+        "name": "Thresher Fangs",
+        "requirements": [
+            {
+                "light": 40,
+                "requires": "Knife's Journey"
+            }
+        ]
+    },
+    {
+        "name": "True Pain",
+        "requirements": [
+            {
+                "light": 75,
+                "requires": "Knife's Journey"
+            }
+        ]
+    },
+    {
+        "name": "Condensation Drip",
+        "requirements": [
+            {
+                "intelligence": 20,
+                "frost": 50
+            }
+        ]
+    },
+    {
+        "name": "Preceding Chill",
+        "requirements": [
+            {
+                "frost": 1,
+                "requires": "Ice Beam"
+            }
+        ]
+    },
+    {
+        "name": "Dark Rift",
+        "requirements": [
+            {
+                "shadow": 75,
+                "requires": "Dark Hours"
+            }
+        ]
+    },
+    {
+        "name": "Blackhole",
+        "requirements": [
+            {
+                "shadow": 75,
+                "requires": "Singularity"
+            }
+        ]
+    },
+    {
+        "name": "Concussion",
+        "requirements": [
+            {
+                "strength": 25,
+                "fortitude": 15
+            }
+        ]
+    },
+    {
+        "name": "Spine Cutter",
+        "requirements": [
+            {
+                "strength": 20,
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Strong Stern",
+        "requirements": [
+            {
+                "strength": 15,
+                "fortitude": 30
+            }
+        ]
+    },
+    {
+        "name": "Tap Dancer",
+        "requirements": [
+            {
+                "agility": 60
+            }
+        ]
+    },
+    {
+        "name": "Fishman",
+        "requirements": [
+            {
+                "power": 1
+            }
+        ]
+    },
+    {
+        "name": "Graceful Steps",
+        "requirements": [
+            {
+                "flame": 75,
+                "requires": "Dancing Steps"
+            }
+        ]
+    },
+    {
+        "name": "Flaming Rebound",
+        "requirements": [
+            {
+                "flame": 50
+            }
+        ]
+    },
+    {
+        "name": "The Final Act",
+        "requirements": [
+            {
+                "power": 40,
+                "flame": 75
+            }
+        ]
+    },
+    {
+        "name": "Warding Radiance",
+        "requirements": [
+            {
+                "agility": 20,
+                "flame": 20,
+                "requires": "Hell's Partisan"
+            }
+        ]
+    },
+    {
+        "name": "Potion Quaffer",
+        "requirements": [
+            {
+                "fortitude": 15,
+                "willpower": 30,
+                "requires": "drinking a potion"
+            }
+        ]
+    },
+    {
+        "name": "To The Finish",
+        "requirements": [
+            {
+                "fortitude": 50
+            }
+        ]
+    },
+    {
+        "name": "Frozen Legs",
+        "requirements": [
+            {
+                "frost": 75
+            }
+        ]
+    },
+    {
+        "name": "Armor Piercing",
+        "requirements": [
+            {
+                "light": 20,
+                "requires": "Summer Isle Quest Done"
+            }
+        ]
+    },
+    {
+        "name": "All the Dead Gods",
+        "requirements": [
+            {
+                "intelligence": 75,
+                "willpower": 75
+            }
+        ]
+    },
+    {
+        "name": "Eyes In The Back Of Your Head",
+        "requirements": [
+            {
+                "willpower": 50,
+                "charisma": 25,
+                "requires": "Glare"
+            }
+        ]
+    },
+    {
+        "name": "Frozen Pin-Cushion",
+        "requirements": [
+            {
+                "frost": 20,
+                "requires": "Ice Daggers"
+            }
+        ]
+    },
+    {
+        "name": "Saint Jay",
+        "requirements": [
+            {
+                "frost": 30,
+                "requires": "Frostbite"
+            }
+        ]
+    },
+    {
+        "name": "Shatter Spear",
+        "requirements": [
+            {
+                "frost": 30,
+                "requires": "Ice Lance"
+            }
+        ]
+    },
+    {
+        "name": "Gale Dash",
+        "requirements": [
+            {
+                "agility": 25,
+                "gale": 50
+            }
+        ]
+    },
+    {
+        "name": "Dirty Boxing",
+        "requirements": [
+            {
+                "agility": 25,
+                "requires": "Fists"
+            }
+        ]
+    },
+    {
+        "name": "Lose Your Mind",
+        "requirements": [
+            {
+                "strength": 30,
+                "fortitude": 30
+            }
+        ]
+    },
+    {
+        "name": "Piercing Will",
+        "requirements": [
+            {
+                "willpower": 80
+            }
+        ]
+    },
+    {
+        "name": "Uproar",
+        "requirements": [
+            {
+                "fortitude": 35
+            }
+        ]
+    },
+    {
+        "name": "Aggressive Posture",
+        "requirements": [
+            {
+                "power": 30
+            }
+        ]
+    },
+    {
+        "name": "Thresher Claws",
+        "requirements": [
+            {
+                "power": 40
+            }
+        ]
+    },
+    {
+        "name": "Warrior's Respite",
+        "requirements": [
+            {
+                "fortitude": 15
+            }
+        ]
+    },
+    {
+        "name": "Lootskipper",
+        "requirements": [
+            {
+                "power": 1
+            }
+        ]
+    },
+    {
+        "name": "Champion's Regalia",
+        "requirements": [
+            {
+                "strength": 25
+            }
+        ]
+    },
+    {
+        "name": "Fists of Fortitude",
+        "requirements": [
+            {
+                "fortitude": 20,
+                "requires": "Fists"
+            }
+        ]
+    },
+    {
+        "name": "All Knowing",
+        "requirements": [
+            {
+                "intelligence": 76,
+                "requires": "Prediction"
+            }
+        ]
+    },
+    {
+        "name": "Successive Prediction",
+        "requirements": [
+            {
+                "intelligence": 76,
+                "requires": "Prediction"
+            }
+        ]
+    },
+    {
+        "name": "Bulldozer",
+        "requirements": [
+            {
+                "strength": 25
+            }
+        ]
+    },
+    {
+        "name": "Shadow Travel",
+        "requirements": [
+            {
+                "shadow": 75
+            }
+        ]
+    },
+    {
+        "name": "Encore",
+        "requirements": [
+            {
+                "charisma": 25,
+                "requires": "Sing"
+            }
+        ]
+    },
+    {
+        "name": "Silencer's Blade",
+        "requirements": [
+            {
+                "power": 40,
+                "gale": 60,
+                "requires": "Silencer's Edge"
+            }
+        ]
+    },
+    {
+        "name": "Bloodiron Spirit",
+        "requirements": [
+            {
+                "power": 1
+            }
+        ]
+    },
+    {
+        "name": "Punishing Blow",
+        "requirements": [
+            {
+                "heavy": 40
+            }
+        ]
+    },
+    {
+        "name": "Static Fakeout",
+        "requirements": [
+            {
+                "agility": 30
+            }
+        ]
+    },
+    {
+        "name": "Cheap Shot",
+        "requirements": [
+            {
+                "agility": 65
+            }
+        ]
+    },
+    {
+        "name": "Denial Repulse",
+        "requirements": [
+            {
+                "flame": 40,
+                "requires": "Flame of Denial"
+            }
+        ]
+    },
+    {
+        "name": "Undying Flame",
+        "requirements": [
+            {
+                "willpower": 40,
+                "flame": 40,
+                "requires": "Graceful Flame"
+            }
+        ]
+    },
+    {
+        "name": "Command: Return",
+        "requirements": [
+            {
+                "charisma": 60,
+                "requires": "Vow of Mastery"
+            }
+        ]
+    },
+    {
+        "name": "Command: Sacrifice",
+        "requirements": [
+            {
+                "charisma": 50,
+                "requires": "Vow of Mastery"
+            }
+        ]
+    },
+    {
+        "name": "Speed Demon",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Vanishing Closure",
+        "requirements": [
+            {
+                "willpower": 10,
+                "charisma": 50,
+                "requires": "Visionshaper"
+            }
+        ]
+    },
+    {
+        "name": "Chronostasis",
+        "requirements": [
+            {
+                "requires": "Engage"
+            }
+        ]
+    },
+    {
+        "name": "Scuba Drowner",
+        "requirements": null
+    },
+    {
+        "name": "Full Reset",
+        "requirements": [
+            {
+                "power": 50
+            }
+        ]
+    },
+    {
+        "name": "Impervious Slumber",
+        "requirements": [
+            {
+                "fortitude": 35
+            }
+        ]
+    },
+    {
+        "name": "Graceful Landing",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Kick Off",
+        "requirements": [
+            {
+                "strength": 4,
+                "agility": 10
+            }
+        ]
+    },
+    {
+        "name": "Quick Recovery",
+        "requirements": [
+            {
+                "agility": 10
+            }
+        ]
+    },
+    {
+        "name": "Steady Footing",
+        "requirements": [
+            {
+                "strength": 25,
+                "agility": 45
+            }
+        ]
+    },
+    {
+        "name": "Time To Go",
+        "requirements": [
+            {
+                "agility": 5
+            }
+        ]
+    },
+    {
+        "name": "Gale Trap",
+        "requirements": [
+            {
+                "gale": 20
+            }
+        ]
+    },
+    {
+        "name": "Aeronade",
+        "requirements": [
+            {
+                "gale": 20,
+                "requires": "Galetrap"
+            }
+        ]
+    },
+    {
+        "name": "Drifting Winds",
+        "requirements": [
+            {
+                "gale": 60
+            }
+        ]
+    },
+    {
+        "name": "Gale Coil",
+        "requirements": [
+            {
+                "strength": 30,
+                "gale": 50,
+                "requires": "Suffocating Impact"
+            }
+        ]
+    },
+    {
+        "name": "Suffocating Impact",
+        "requirements": [
+            {
+                "strength": 30,
+                "gale": 50,
+                "requires": "Drifting Winds"
+            }
+        ]
+    },
+    {
+        "name": "Vacuum Punch",
+        "requirements": [
+            {
+                "gale": 20,
+                "requires": "Gale Punch"
+            }
+        ]
+    },
+    {
+        "name": "Apothecary",
+        "requirements": [
+            {
+                "intelligence": 25,
+                "requires": "making a potion"
+            }
+        ]
+    },
+    {
+        "name": "Exterminator",
+        "requirements": [
+            {
+                "intelligence": 25,
+                "requires": "Apothecary"
+            }
+        ]
+    },
+    {
+        "name": "Wild Alchemy",
+        "requirements": [
+            {
+                "intelligence": 25,
+                "requires": "making a potion"
+            }
+        ]
+    },
+    {
+        "name": "Endurance Runner",
+        "requirements": [
+            {
+                "fortitude": 35,
+                "agility": 35
+            }
+        ]
+    },
+    {
+        "name": "Fast Blade",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Lowstride",
+        "requirements": [
+            {
+                "agility": 25,
+                "requires": "multiple assassinations"
+            }
+        ]
+    },
+    {
+        "name": "Scaredy Cat",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Flame Within",
+        "requirements": [
+            {
+                "flame": 30
+            }
+        ]
+    },
+    {
+        "name": "Fisher's Lure",
+        "requirements": [
+            {
+                "requires": "25 successful catches"
+            }
+        ]
+    },
+    {
+        "name": "Hook, Line and Sinker",
+        "requirements": [
+            {
+                "requires": "50 successful catches"
+            }
+        ]
+    },
+    {
+        "name": "Proficient Baiting",
+        "requirements": [
+            {
+                "requires": "10 successful catches"
+            }
+        ]
+    },
+    {
+        "name": "Sunken Predator",
+        "requirements": [
+            {
+                "power": 30
+            }
+        ]
+    },
+    {
+        "name": "Master Craftsman",
+        "requirements": [
+            {
+                "intelligence": 50
+            }
+        ]
+    },
+    {
+        "name": "Vital Point",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Finesse",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Heavy Lifting",
+        "requirements": [
+            {
+                "strength": 5
+            }
+        ]
+    },
+    {
+        "name": "Pitcher",
+        "requirements": [
+            {
+                "strength": 5,
+                "agility": 5
+            }
+        ]
+    },
+    {
+        "name": "Triathlete",
+        "requirements": null
+    },
+    {
+        "name": "Authority Indimidation",
+        "requirements": [
+            {
+                "power": 30,
+                "thunder": 30
+            }
+        ]
+    },
+    {
+        "name": "First Interrogation",
+        "requirements": [
+            {
+                "power": 30,
+                "thunder": 30
+            }
+        ]
+    },
+    {
+        "name": "Resolve Crusher",
+        "requirements": [
+            {
+                "power": 30,
+                "thunder": 30
+            }
+        ]
+    },
+    {
+        "name": "Second Interrogation",
+        "requirements": [
+            {
+                "power": 30,
+                "thunder": 30
+            }
+        ]
+    },
+    {
+        "name": "Third Interrogation",
+        "requirements": [
+            {
+                "power": 30,
+                "thunder": 30
+            }
+        ]
+    },
+    {
+        "name": "Battle Tendency",
+        "requirements": [
+            {
+                "fortitude": 20,
+                "willpower": 15
+            }
+        ]
+    },
+    {
+        "name": "Berserker",
+        "requirements": [
+            {
+                "fortitude": 30
+            }
+        ]
+    },
+    {
+        "name": "Braced Collapse",
+        "requirements": [
+            {
+                "fortitude": 15
+            }
+        ]
+    },
+    {
+        "name": "Brick Wall",
+        "requirements": [
+            {
+                "fortitude": 100,
+                "willpower": 100,
+                "requires": "Perseverance"
+            }
+        ]
+    },
+    {
+        "name": "Firmly Planted",
+        "requirements": [
+            {
+                "fortitude": 15,
+                "willpower": 20
+            }
+        ]
+    },
+    {
+        "name": "Heavy Haul",
+        "requirements": [
+            {
+                "strength": 15,
+                "fortitude": 15
+            }
+        ]
+    },
+    {
+        "name": "Moving Fortress",
+        "requirements": [
+            {
+                "fortitude": 10
+            }
+        ]
+    },
+    {
+        "name": "Perseverance",
+        "requirements": [
+            {
+                "fortitude": 30,
+                "willpower": 30
+            }
+        ]
+    },
+    {
+        "name": "Giantslayer",
+        "requirements": [
+            {
+                "willpower": 20
+            }
+        ]
+    },
+    {
+        "name": "Bruiser's Mixup",
+        "requirements": [
+            {
+                "requires": "Trained Fist"
+            }
+        ]
+    },
+    {
+        "name": "Trained Fist",
+        "requirements": null
+    },
+    {
+        "name": "Brazen Blow",
+        "requirements": [
+            {
+                "heavy": 30,
+                "requires": "Impairing Blow, Greataxe"
+            }
+        ]
+    },
+    {
+        "name": "Impairing Blow",
+        "requirements": [
+            {
+                "heavy": 30,
+                "requires": "Greataxe"
+            }
+        ]
+    },
+    {
+        "name": "Steel Filter",
+        "requirements": [
+            {
+                "heavy": 30,
+                "requires": "Greataxe"
+            }
+        ]
+    },
+    {
+        "name": "Steady Nerves",
+        "requirements": [
+            {
+                "strength": 10,
+                "agility": 45
+            }
+        ]
+    },
+    {
+        "name": "Swift Rebound",
+        "requirements": [
+            {
+                "agility": 10
+            }
+        ]
+    },
+    {
+        "name": "Ether Absorption",
+        "requirements": [
+            {
+                "intelligence": 15
+            }
+        ]
+    },
+    {
+        "name": "Ether Conduit",
+        "requirements": [
+            {
+                "intelligence": 30
+            }
+        ]
+    },
+    {
+        "name": "Underdog",
+        "requirements": [
+            {
+                "willpower": 50
+            }
+        ]
+    },
+    {
+        "name": "Lasting Charisma",
+        "requirements": [
+            {
+                "charisma": 40
+            }
+        ]
+    },
+    {
+        "name": "Chaotic Charm",
+        "requirements": [
+            {
+                "charisma": 25
+            }
+        ]
+    },
+    {
+        "name": "Charismatic Cast",
+        "requirements": [
+            {
+                "charisma": 25
+            }
+        ]
+    },
+    {
+        "name": "Familiar Sight",
+        "requirements": [
+            {
+                "charisma": 25
+            }
+        ]
+    },
+    {
+        "name": "Morale Booster",
+        "requirements": [
+            {
+                "charisma": 25
+            }
+        ]
+    },
+    {
+        "name": "Tough Love",
+        "requirements": [
+            {
+                "charisma": 25
+            }
+        ]
+    },
+    {
+        "name": "Gale Leap",
+        "requirements": [
+            {
+                "strength": 25,
+                "gale": 25
+            }
+        ]
+    },
+    {
+        "name": "Harsh Response",
+        "requirements": [
+            {
+                "strength": 10,
+                "heavy": 20
+            }
+        ]
+    },
+    {
+        "name": "Heavy Hitter",
+        "requirements": [
+            {
+                "requires": "Greatsword/Greathammer"
+            }
+        ]
+    },
+    {
+        "name": "Decisive Blow",
+        "requirements": [
+            {
+                "light": 40,
+                "requires": "Knife's Journey"
+            }
+        ]
+    },
+    {
+        "name": "Chilling Flourish",
+        "requirements": [
+            {
+                "frost": 20
+            }
+        ]
+    },
+    {
+        "name": "Cool Head",
+        "requirements": [
+            {
+                "frost": 15
+            }
+        ]
+    },
+    {
+        "name": "Spike Traps",
+        "requirements": [
+            {
+                "frost": 1,
+                "requires": "Ice Spikes"
+            }
+        ]
+    },
+    {
+        "name": "Cryostasis",
+        "requirements": [
+            {
+                "frost": 60
+            }
+        ]
+    },
+    {
+        "name": "Fragile Freeze",
+        "requirements": [
+            {
+                "frost": 60
+            }
+        ]
+    },
+    {
+        "name": "Rude Awakening",
+        "requirements": [
+            {
+                "frost": 60,
+                "requires": "Cryostasis"
+            }
+        ]
+    },
+    {
+        "name": "Assassin",
+        "requirements": [
+            {
+                "agility": 20
+            }
+        ]
+    },
+    {
+        "name": "Blood Thirsty",
+        "requirements": [
+            {
+                "agility": 40,
+                "light": 75
+            }
+        ]
+    },
+    {
+        "name": "Deep Wound",
+        "requirements": [
+            {
+                "agility": 30,
+                "light": 40,
+                "requires": "Dagger"
+            }
+        ]
+    },
+    {
+        "name": "Hidden Blade",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "In a Hurry",
+        "requirements": [
+            {
+                "agility": 30
+            }
+        ]
+    },
+    {
+        "name": "Dark God",
+        "requirements": [
+            {
+                "shadow": 20
+            }
+        ]
+    },
+    {
+        "name": "Dark Hours",
+        "requirements": [
+            {
+                "shadow": 50
+            }
+        ]
+    },
+    {
+        "name": "Dark Synergy",
+        "requirements": [
+            {
+                "shadow": 50
+            }
+        ]
+    },
+    {
+        "name": "Devour",
+        "requirements": [
+            {
+                "shadow": 50
+            }
+        ]
+    },
+    {
+        "name": "Overwhelming Drain",
+        "requirements": [
+            {
+                "shadow": 20,
+                "requires": "Shadow Eruption"
+            }
+        ]
+    },
+    {
+        "name": "Shadow Overflow",
+        "requirements": [
+            {
+                "shadow": 60,
+                "requires": "Dark God"
+            }
+        ]
+    },
+    {
+        "name": "Energy Siphon",
+        "requirements": [
+            {
+                "shadow": 60,
+                "requires": "Singularity"
+            }
+        ]
+    },
+    {
+        "name": "Depths Connection",
+        "requirements": null
+    },
+    {
+        "name": "Spell Shout",
+        "requirements": null
+    },
+    {
+        "name": "The Sound From Below",
+        "requirements": [
+            {
+                "power": 2
+            }
+        ]
+    },
+    {
+        "name": "Concussive Force",
+        "requirements": [
+            {
+                "strength": 15
+            }
+        ]
+    },
+    {
+        "name": "Duelist's Dance",
+        "requirements": [
+            {
+                "strength": 15
+            }
+        ]
+    },
+    {
+        "name": "Last Resort",
+        "requirements": [
+            {
+                "willpower": 20
+            }
+        ]
+    },
+    {
+        "name": "Precise Swing",
+        "requirements": [
+            {
+                "strength": 30
+            }
+        ]
+    },
+    {
+        "name": "Strong Hold",
+        "requirements": [
+            {
+                "strength": 30,
+                "requires": "Medium Weapons"
+            }
+        ]
+    },
+    {
+        "name": "Concussive Flash",
+        "requirements": [
+            {
+                "strength": 40,
+                "flame": 40,
+                "requires": "Flame Blind Mantra"
+            }
+        ]
+    },
+    {
+        "name": "Give and Take",
+        "requirements": [
+            {
+                "charisma": 25,
+                "requires": "Friends In High Places"
+            }
+        ]
+    },
+    {
+        "name": "Boot Wallet",
+        "requirements": null
+    },
+    {
+        "name": "Robber Baron",
+        "requirements": null
+    },
+    {
+        "name": "Charged Return",
+        "requirements": [
+            {
+                "strength": 15,
+                "willpower": 20
+            }
+        ]
+    },
+    {
+        "name": "Ether Blade",
+        "requirements": [
+            {
+                "agility": 15,
+                "intelligence": 5
+            }
+        ]
+    },
+    {
+        "name": "Magical Resolve",
+        "requirements": [
+            {
+                "fortitude": 15,
+                "willpower": 40,
+                "requires": "Battle Tendency"
+            }
+        ]
+    },
+    {
+        "name": "Mantra Permanence",
+        "requirements": [
+            {
+                "intelligence": 40
+            }
+        ]
+    },
+    {
+        "name": "Nullifying Clarity",
+        "requirements": [
+            {
+                "strength": 15,
+                "intelligence": 5
+            }
+        ]
+    },
+    {
+        "name": "Meteor Impact",
+        "requirements": [
+            {
+                "flame": 30,
+                "requires": "Rising Flame"
+            }
+        ]
+    },
+    {
+        "name": "Phoenix Impact",
+        "requirements": [
+            {
+                "flame": 35,
+                "requires": "Meteor Impact"
+            }
+        ]
+    },
+    {
+        "name": "Thorns of Fire",
+        "requirements": [
+            {
+                "flame": 1,
+                "requires": "Flame Repulsion"
+            }
+        ]
+    },
+    {
+        "name": "Emperor Flame",
+        "requirements": [
+            {
+                "flame": 75
+            }
+        ]
+    },
+    {
+        "name": "Flamecharmer",
+        "requirements": [
+            {
+                "flame": 1
+            }
+        ]
+    },
+    {
+        "name": "Adept Flamecharmer",
+        "requirements": [
+            {
+                "flame": 20
+            }
+        ]
+    },
+    {
+        "name": "Expert Flamecharmer",
+        "requirements": [
+            {
+                "flame": 30
+            }
+        ]
+    },
+    {
+        "name": "Master Flamecharmer",
+        "requirements": [
+            {
+                "flame": 50
+            }
+        ]
+    },
+    {
+        "name": "Azure Flames",
+        "requirements": [
+            {
+                "willpower": 40,
+                "flame": 70
+            }
+        ]
+    },
+    {
+        "name": "Produce Spark",
+        "requirements": [
+            {
+                "flame": 45
+            }
+        ]
+    },
+    {
+        "name": "Unyielding Inferno",
+        "requirements": [
+            {
+                "flame": 40
+            }
+        ]
+    },
+    {
+        "name": "Wildfire",
+        "requirements": [
+            {
+                "flame": 20,
+                "requires": "Flame Palm"
+            }
+        ]
+    },
+    {
+        "name": "Dancing Steps",
+        "requirements": [
+            {
+                "flame": 50
+            }
+        ]
+    },
+    {
+        "name": "Cauterized Wounds",
+        "requirements": [
+            {
+                "fortitude": 10,
+                "flame": 15
+            }
+        ]
+    },
+    {
+        "name": "Flamewalker",
+        "requirements": [
+            {
+                "agility": 20,
+                "flame": 25,
+                "requires": "Warding Radiance"
+            }
+        ]
+    },
+    {
+        "name": "Hell's Partisan",
+        "requirements": [
+            {
+                "flame": 20,
+                "requires": "Fire Forge"
+            }
+        ]
+    },
+    {
+        "name": "Agility Unbounded",
+        "requirements": [
+            {
+                "agility": 75
+            }
+        ]
+    },
+    {
+        "name": "Frostdrawer",
+        "requirements": [
+            {
+                "frost": 1
+            }
+        ]
+    },
+    {
+        "name": "Adept Frostdrawer",
+        "requirements": [
+            {
+                "frost": 20
+            }
+        ]
+    },
+    {
+        "name": "Expert Frostdrawer",
+        "requirements": [
+            {
+                "frost": 30
+            }
+        ]
+    },
+    {
+        "name": "Master Frostdrawer",
+        "requirements": [
+            {
+                "frost": 50
+            }
+        ]
+    },
+    {
+        "name": "Glacial Finish",
+        "requirements": [
+            {
+                "frost": 20,
+                "requires": "Ice Smash"
+            }
+        ]
+    },
+    {
+        "name": "Glacial Mobility",
+        "requirements": [
+            {
+                "frost": 20,
+                "requires": "Ice Blade"
+            }
+        ]
+    },
+    {
+        "name": "Glacial Coasting",
+        "requirements": [
+            {
+                "agility": 25,
+                "frost": 60,
+                "requires": "Orbital ice"
+            }
+        ]
+    },
+    {
+        "name": "Orbital Ice",
+        "requirements": [
+            {
+                "agility": 25,
+                "frost": 20
+            }
+        ]
+    },
+    {
+        "name": "Galebreather",
+        "requirements": [
+            {
+                "gale": 1
+            }
+        ]
+    },
+    {
+        "name": "Adept Galebreather",
+        "requirements": [
+            {
+                "gale": 20
+            }
+        ]
+    },
+    {
+        "name": "Expert Galebreather",
+        "requirements": [
+            {
+                "gale": 30
+            }
+        ]
+    },
+    {
+        "name": "Master Galebreather",
+        "requirements": [
+            {
+                "gale": 40
+            }
+        ]
+    },
+    {
+        "name": "The Old Wind",
+        "requirements": [
+            {
+                "strength": 25,
+                "gale": 25,
+                "requires": "Gale Leap"
+            }
+        ]
+    },
+    {
+        "name": "Tempest Wind",
+        "requirements": [
+            {
+                "gale": 1,
+                "requires": "Wind Blade"
+            }
+        ]
+    },
+    {
+        "name": "After Cut",
+        "requirements": [
+            {
+                "gale": 50,
+                "requires": "Breathing Impact"
+            }
+        ]
+    },
+    {
+        "name": "Breathing Impact",
+        "requirements": [
+            {
+                "gale": 50
+            }
+        ]
+    },
+    {
+        "name": "Inhale",
+        "requirements": [
+            {
+                "gale": 50,
+                "requires": "Breathing Impact"
+            }
+        ]
+    },
+    {
+        "name": "Tailwind",
+        "requirements": [
+            {
+                "gale": 50,
+                "requires": "Inhale"
+            }
+        ]
+    },
+    {
+        "name": "The Thinker",
+        "requirements": [
+            {
+                "intelligence": 25,
+                "willpower": 25,
+                "gale": 40
+            }
+        ]
+    },
+    {
+        "name": "Crystal Breaker",
+        "requirements": [
+            {
+                "frost": 50,
+                "requires": "Glass Path: Crystallization"
+            }
+        ]
+    },
+    {
+        "name": "Glass Path: Crystallization",
+        "requirements": [
+            {
+                "frost": 50
+            }
+        ]
+    },
+    {
+        "name": "Fortitude Unbounded",
+        "requirements": [
+            {
+                "fortitude": 75
+            }
+        ]
+    },
+    {
+        "name": "Aerial Shot",
+        "requirements": [
+            {
+                "light": 25,
+                "requires": "Guns"
+            }
+        ]
+    },
+    {
+        "name": "Ether Bullets",
+        "requirements": [
+            {
+                "intelligence": 10,
+                "light": 20,
+                "requires": "Guns"
+            }
+        ]
+    },
+    {
+        "name": "Quickdraw",
+        "requirements": [
+            {
+                "light": 65,
+                "requires": "Guns"
+            }
+        ]
+    },
+    {
+        "name": "Bottom Freeze",
+        "requirements": [
+            {
+                "frost": 20,
+                "requires": "Ice Forge"
+            }
+        ]
+    },
+    {
+        "name": "Cryonis",
+        "requirements": [
+            {
+                "frost": 40
+            }
+        ]
+    },
+    {
+        "name": "Frostbite",
+        "requirements": [
+            {
+                "frost": 10
+            }
+        ]
+    },
+    {
+        "name": "Frost Buster",
+        "requirements": [
+            {
+                "strength": 10,
+                "heavy": 25,
+                "frost": 25,
+                "requires": "Greatsword/Greathammer"
+            }
+        ]
+    },
+    {
+        "name": "Glacial Ice",
+        "requirements": [
+            {
+                "willpower": 20,
+                "frost": 60
+            }
+        ]
+    },
+    {
+        "name": "Immolation",
+        "requirements": [
+            {
+                "willpower": 20,
+                "flame": 50,
+                "requires": "Agitating Spark"
+            }
+        ]
+    },
+    {
+        "name": "Agitating Spark",
+        "requirements": [
+            {
+                "flame": 30
+            }
+        ]
+    },
+    {
+        "name": "All-Consuming Flame",
+        "requirements": [
+            {
+                "flame": 30
+            }
+        ]
+    },
+    {
+        "name": "Corpse Explosion",
+        "requirements": [
+            {
+                "flame": 30,
+                "requires": "All-Consuming Flame"
+            }
+        ]
+    },
+    {
+        "name": "Pleeksty's Faith",
+        "requirements": [
+            {
+                "willpower": 20,
+                "charisma": 15,
+                "flame": 10
+            }
+        ]
+    },
+    {
+        "name": "Pleetsky's Will",
+        "requirements": [
+            {
+                "flame": 50
+            }
+        ]
+    },
+    {
+        "name": "Chitin",
+        "requirements": null
+    },
+    {
+        "name": "Deepfolk",
+        "requirements": null
+    },
+    {
+        "name": "Mark of Jurik",
+        "requirements": null
+    },
+    {
+        "name": "Mark of Ku",
+        "requirements": null
+    },
+    {
+        "name": "Mark of Nemit",
+        "requirements": null
+    },
+    {
+        "name": "Loyalty",
+        "requirements": null
+    },
+    {
+        "name": "Maudet",
+        "requirements": null
+    },
+    {
+        "name": "Molt",
+        "requirements": null
+    },
+    {
+        "name": "Navae's Guidance",
+        "requirements": null
+    },
+    {
+        "name": "Nightchild",
+        "requirements": null
+    },
+    {
+        "name": "Seaborne",
+        "requirements": null
+    },
+    {
+        "name": "Versatile",
+        "requirements": null
+    },
+    {
+        "name": "Willpower Unbounded",
+        "requirements": [
+            {
+                "willpower": 75
+            }
+        ]
+    },
+    {
+        "name": "Flying Swiftkick",
+        "requirements": [
+            {
+                "power": 20,
+                "light": 40,
+                "requires": "Swiftkick Prodigy"
+            }
+        ]
+    },
+    {
+        "name": "Justicar's Prowess",
+        "requirements": [
+            {
+                "power": 20,
+                "light": 40,
+                "requires": "Jus Karita"
+            }
+        ]
+    },
+    {
+        "name": "Justicar's Renewal",
+        "requirements": [
+            {
+                "power": 20,
+                "light": 40,
+                "requires": "Jus Karita"
+            }
+        ]
+    },
+    {
+        "name": "Jus Karita",
+        "requirements": [
+            {
+                "power": 20,
+                "light": 40
+            }
+        ]
+    },
+    {
+        "name": "Swiftkick Prodigy",
+        "requirements": [
+            {
+                "power": 20,
+                "light": 40,
+                "requires": "Jus Karita"
+            }
+        ]
+    },
+    {
+        "name": "Blade's Edge",
+        "requirements": [
+            {
+                "medium": 35
+            }
+        ]
+    },
+    {
+        "name": "Defensive Sweep",
+        "requirements": [
+            {
+                "medium": 35
+            }
+        ]
+    },
+    {
+        "name": "Driving Impact",
+        "requirements": [
+            {
+                "medium": 35
+            }
+        ]
+    },
+    {
+        "name": "Lancer's Impale",
+        "requirements": [
+            {
+                "medium": 35
+            }
+        ]
+    },
+    {
+        "name": "Eruption Path: Lava Serpent",
+        "requirements": [
+            {
+                "power": 30,
+                "flame": 75
+            }
+        ]
+    },
+    {
+        "name": "Air Pressure",
+        "requirements": [
+            {
+                "agility": 20,
+                "gale": 40
+            }
+        ]
+    },
+    {
+        "name": "Cyclone Blade",
+        "requirements": [
+            {
+                "agility": 25,
+                "gale": 50,
+                "requires": "Gale Dash"
+            }
+        ]
+    },
+    {
+        "name": "Hoplite",
+        "requirements": [
+            {
+                "fortitude": 30,
+                "requires": "Spear"
+            }
+        ]
+    },
+    {
+        "name": "Pressure Break",
+        "requirements": [
+            {
+                "strength": 5,
+                "agility": 20,
+                "gale": 40,
+                "requires": "Pressure Break"
+            }
+        ]
+    },
+    {
+        "name": "Wind Step",
+        "requirements": [
+            {
+                "gale": 50,
+                "requires": "Gale Leap"
+            }
+        ]
+    },
+    {
+        "name": "Savior",
+        "requirements": [
+            {
+                "willpower": 5
+            }
+        ]
+    },
+    {
+        "name": "Comeback Kid",
+        "requirements": [
+            {
+                "willpower": 30
+            }
+        ]
+    },
+    {
+        "name": "Defiant until the End",
+        "requirements": [
+            {
+                "willpower": 30
+            }
+        ]
+    },
+    {
+        "name": "The Eleventh Hour",
+        "requirements": [
+            {
+                "willpower": 30
+            }
+        ]
+    },
+    {
+        "name": "Bloodletter",
+        "requirements": [
+            {
+                "power": 40
+            }
+        ]
+    },
+    {
+        "name": "Thresher Scales",
+        "requirements": [
+            {
+                "power": 40,
+                "requires": "Bloodiron Spirit"
+            }
+        ]
+    },
+    {
+        "name": "Survival Kit",
+        "requirements": [
+            {
+                "power": 20,
+                "fortitude": 10,
+                "requires": "Termite, Iron Gut, and Herbivore"
+            }
+        ]
+    },
+    {
+        "name": "Breathing Exercise",
+        "requirements": [
+            {
+                "willpower": 5
+            }
+        ]
+    },
+    {
+        "name": "Conquer your Fears",
+        "requirements": [
+            {
+                "willpower": 10,
+                "requires": "Breathing Exercise"
+            }
+        ]
+    },
+    {
+        "name": "Disbelief",
+        "requirements": [
+            {
+                "willpower": 25
+            }
+        ]
+    },
+    {
+        "name": "Encouraging Presence",
+        "requirements": [
+            {
+                "willpower": 20
+            }
+        ]
+    },
+    {
+        "name": "Unyielding Focus",
+        "requirements": [
+            {
+                "willpower": 40,
+                "requires": "Disbelief"
+            }
+        ]
+    },
+    {
+        "name": "Health Pack",
+        "requirements": null
+    },
+    {
+        "name": "Ether Kit",
+        "requirements": null
+    },
+    {
+        "name": "Shared Misery",
+        "requirements": [
+            {
+                "willpower": 80
+            }
+        ]
+    },
+    {
+        "name": "Boulder Climb",
+        "requirements": [
+            {
+                "strength": 5,
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Charisma Unbounded",
+        "requirements": [
+            {
+                "charisma": 75
+            }
+        ]
+    },
+    {
+        "name": "Ardour Scream",
+        "requirements": [
+            {
+                "strength": 15,
+                "willpower": 40,
+                "requires": "Murmur: Ardour"
+            }
+        ]
+    },
+    {
+        "name": "Murmur: Ardour",
+        "requirements": null
+    },
+    {
+        "name": "Murmur: Tacet",
+        "requirements": null
+    },
+    {
+        "name": "Padded Armor",
+        "requirements": null
+    },
+    {
+        "name": "Steel Scales",
+        "requirements": [
+            {
+                "requires": "Padded Armor"
+            }
+        ]
+    },
+    {
+        "name": "Captain Etrea",
+        "requirements": [
+            {
+                "strength": 30,
+                "fortitude": 30
+            }
+        ]
+    },
+    {
+        "name": "Heartbreaker",
+        "requirements": [
+            {
+                "light": 75,
+                "requires": "Fists"
+            }
+        ]
+    },
+    {
+        "name": "Intelligence Unbounded",
+        "requirements": [
+            {
+                "intelligence": 75
+            }
+        ]
+    },
+    {
+        "name": "Strength Unbounded",
+        "requirements": [
+            {
+                "fortitude": 75
+            }
+        ]
+    },
+    {
+        "name": "Excavator",
+        "requirements": [
+            {
+                "intelligence": 15
+            }
+        ]
+    },
+    {
+        "name": "Harvester",
+        "requirements": [
+            {
+                "intelligence": 15
+            }
+        ]
+    },
+    {
+        "name": "Bodyguard Detail",
+        "requirements": [
+            {
+                "charisma": 30
+            }
+        ]
+    },
+    {
+        "name": "Celebrity",
+        "requirements": [
+            {
+                "charisma": 25
+            }
+        ]
+    },
+    {
+        "name": "Diplomat",
+        "requirements": [
+            {
+                "charisma": 25
+            }
+        ]
+    },
+    {
+        "name": "Twisted Puppets",
+        "requirements": [
+            {
+                "flame": 75,
+                "shadow": 75
+            }
+        ]
+    },
+    {
+        "name": "Hungry Flames",
+        "requirements": [
+            {
+                "flame": 75
+            }
+        ]
+    },
+    {
+        "name": "Shield Breaker",
+        "requirements": [
+            {
+                "strength": 60
+            }
+        ]
+    },
+    {
+        "name": "Treefelling Blow",
+        "requirements": [
+            {
+                "strength": 5,
+                "requires": "Strong Left"
+            }
+        ]
+    },
+    {
+        "name": "Unwavering Resolve",
+        "requirements": [
+            {
+                "strength": 40
+            }
+        ]
+    },
+    {
+        "name": "Jolting Current",
+        "requirements": [
+            {
+                "thunder": 35
+            }
+        ]
+    },
+    {
+        "name": "Heavy Weapons Unbounded",
+        "requirements": [
+            {
+                "heavy": 75
+            }
+        ]
+    },
+    {
+        "name": "Light Weapons Unbounded",
+        "requirements": [
+            {
+                "light": 75
+            }
+        ]
+    },
+    {
+        "name": "Medium Weapons Unbounded",
+        "requirements": [
+            {
+                "medium": 75
+            }
+        ]
+    },
+    {
+        "name": "Windwaker",
+        "requirements": [
+            {
+                "gale": 1
+            }
+        ]
+    },
+    {
+        "name": "Jumpstart",
+        "requirements": [
+            {
+                "thunder": 50,
+                "requires": "Raging Static"
+            }
+        ]
+    },
+    {
+        "name": "Raging Static",
+        "requirements": [
+            {
+                "thunder": 50,
+                "requires": "Static Withdraw"
+            }
+        ]
+    },
+    {
+        "name": "Static Withdraw",
+        "requirements": [
+            {
+                "thunder": 30
+            }
+        ]
+    },
+    {
+        "name": "Now You See Me",
+        "requirements": [
+            {
+                "agility": 15
+            }
+        ]
+    },
+    {
+        "name": "Shadowcaster",
+        "requirements": [
+            {
+                "shadow": 1
+            }
+        ]
+    },
+    {
+        "name": "Adept Shadowcaster",
+        "requirements": [
+            {
+                "shadow": 20
+            }
+        ]
+    },
+    {
+        "name": "Expert Shadowcaster",
+        "requirements": [
+            {
+                "shadow": 30
+            }
+        ]
+    },
+    {
+        "name": "Master Shadowcaster",
+        "requirements": [
+            {
+                "shadow": 50
+            }
+        ]
+    },
+    {
+        "name": "Black Out",
+        "requirements": [
+            {
+                "shadow": 30
+            }
+        ]
+    },
+    {
+        "name": "Blossoming Darkness",
+        "requirements": [
+            {
+                "shadow": 30,
+                "requires": "Shadow Roar"
+            }
+        ]
+    },
+    {
+        "name": "Fear",
+        "requirements": [
+            {
+                "shadow": 75
+            }
+        ]
+    },
+    {
+        "name": "Lasting Sorrow",
+        "requirements": [
+            {
+                "shadow": 60
+            }
+        ]
+    },
+    {
+        "name": "Sightless Still",
+        "requirements": [
+            {
+                "shadow": 30
+            }
+        ]
+    },
+    {
+        "name": "Singularity",
+        "requirements": [
+            {
+                "shadow": 50
+            }
+        ]
+    },
+    {
+        "name": "Knight's Rally",
+        "requirements": [
+            {
+                "fortitude": 50,
+                "willpower": 40,
+                "requires": "Shield"
+            }
+        ]
+    },
+    {
+        "name": "Turtle Shell",
+        "requirements": [
+            {
+                "fortitude": 60,
+                "willpower": 40,
+                "requires": "Shield"
+            }
+        ]
+    },
+    {
+        "name": "Emergency Repairs",
+        "requirements": [
+            {
+                "requires": "Repair Hammer"
+            }
+        ]
+    },
+    {
+        "name": "Spare Nails",
+        "requirements": [
+            {
+                "requires": "Repair Hammer"
+            }
+        ]
+    },
+    {
+        "name": "Silencer's Edge",
+        "requirements": [
+            {
+                "power": 40,
+                "gale": 60
+            }
+        ]
+    },
+    {
+        "name": "Friends in High Places",
+        "requirements": [
+            {
+                "charisma": 20
+            }
+        ]
+    },
+    {
+        "name": "Salesperson",
+        "requirements": [
+            {
+                "charisma": 25
+            }
+        ]
+    },
+    {
+        "name": "Snake Oil",
+        "requirements": [
+            {
+                "charisma": 25,
+                "requires": "Salesperson"
+            }
+        ]
+    },
+    {
+        "name": "Chime of Conflict",
+        "requirements": [
+            {
+                "power": 15,
+                "requires": "talking to Yamaketzal at Power 15"
+            }
+        ]
+    },
+    {
+        "name": "Agitating Static",
+        "requirements": [
+            {
+                "flame": 50,
+                "thunder": 50,
+                "requires": "Discovery of Fire"
+            }
+        ]
+    },
+    {
+        "name": "Jumper Cables",
+        "requirements": [
+            {
+                "intelligence": 20,
+                "thunder": 45,
+                "requires": "Static Link"
+            }
+        ]
+    },
+    {
+        "name": "Link Conduction",
+        "requirements": [
+            {
+                "intelligence": 30,
+                "thunder": 45,
+                "requires": "Static Link"
+            }
+        ]
+    },
+    {
+        "name": "Static Ace",
+        "requirements": [
+            {
+                "intelligence": 30,
+                "thunder": 45,
+                "requires": "Static Link"
+            }
+        ]
+    },
+    {
+        "name": "Static Allure",
+        "requirements": [
+            {
+                "intelligence": 30,
+                "thunder": 45
+            }
+        ]
+    },
+    {
+        "name": "Static Link",
+        "requirements": [
+            {
+                "intelligence": 15,
+                "thunder": 45,
+                "requires": "Fists"
+            }
+        ]
+    },
+    {
+        "name": "Stormcaller Slash",
+        "requirements": [
+            {
+                "thunder": 1,
+                "requires": "Lightning Blade"
+            }
+        ]
+    },
+    {
+        "name": "Grasp on Reality",
+        "requirements": [
+            {
+                "fortitude": 5,
+                "willpower": 5
+            }
+        ]
+    },
+    {
+        "name": "Unfazed",
+        "requirements": [
+            {
+                "fortitude": 50,
+                "willpower": 50
+            }
+        ]
+    },
+    {
+        "name": "Herbivore",
+        "requirements": [
+            {
+                "fortitude": 5
+            }
+        ]
+    },
+    {
+        "name": "Iron Gut",
+        "requirements": [
+            {
+                "fortitude": 10,
+                "requires": "Herbivore"
+            }
+        ]
+    },
+    {
+        "name": "Termite",
+        "requirements": [
+            {
+                "power": 20,
+                "requires": "wiping with Iron Gut"
+            }
+        ]
+    },
+    {
+        "name": "Pack Mule",
+        "requirements": [
+            {
+                "strength": 5,
+                "fortitude": 5
+            }
+        ]
+    },
+    {
+        "name": "Hard Read",
+        "requirements": [
+            {
+                "intelligence": 30
+            }
+        ]
+    },
+    {
+        "name": "Target Switch",
+        "requirements": [
+            {
+                "intelligence": 30
+            }
+        ]
+    },
+    {
+        "name": "Explosive Finish",
+        "requirements": [
+            {
+                "flame": 50
+            }
+        ]
+    },
+    {
+        "name": "Flaming Flourish",
+        "requirements": [
+            {
+                "flame": 25
+            }
+        ]
+    },
+    {
+        "name": "Pickpocket",
+        "requirements": [
+            {
+                "agility": 5,
+                "charisma": 5
+            }
+        ]
+    },
+    {
+        "name": "Cap Artist",
+        "requirements": [
+            {
+                "agility": 15,
+                "charisma": 15
+            }
+        ]
+    },
+    {
+        "name": "Master Thief",
+        "requirements": [
+            {
+                "agility": 5,
+                "charisma": 5,
+                "requires": "Pickpocket"
+            }
+        ]
+    },
+    {
+        "name": "Gathering Electricity",
+        "requirements": [
+            {
+                "agility": 20,
+                "medium": 75,
+                "thunder": 50,
+                "requires": "Static Blade"
+            }
+        ]
+    },
+    {
+        "name": "Overcharge",
+        "requirements": [
+            {
+                "agility": 20,
+                "medium": 75,
+                "thunder": 50,
+                "requires": "Static Blade"
+            }
+        ]
+    },
+    {
+        "name": "Static Blade",
+        "requirements": [
+            {
+                "agility": 20,
+                "medium": 75,
+                "thunder": 50
+            }
+        ]
+    },
+    {
+        "name": "Discharge",
+        "requirements": [
+            {
+                "agility": 20,
+                "light": 75,
+                "thunder": 50
+            }
+        ]
+    },
+    {
+        "name": "Volt Kick",
+        "requirements": [
+            {
+                "thunder": 20,
+                "requires": "Thunder Kick"
+            }
+        ]
+    },
+    {
+        "name": "Jolt Cast",
+        "requirements": [
+            {
+                "thunder": 75
+            }
+        ]
+    },
+    {
+        "name": "Rain of Static",
+        "requirements": [
+            {
+                "thunder": 20,
+                "requires": "Lightning Impact"
+            }
+        ]
+    },
+    {
+        "name": "Thundercaller",
+        "requirements": [
+            {
+                "thunder": 1
+            }
+        ]
+    },
+    {
+        "name": "Adept Thundercaller",
+        "requirements": [
+            {
+                "thunder": 20
+            }
+        ]
+    },
+    {
+        "name": "Expert Thundercaller",
+        "requirements": [
+            {
+                "thunder": 30
+            }
+        ]
+    },
+    {
+        "name": "Master Thundercaller",
+        "requirements": [
+            {
+                "thunder": 50
+            }
+        ]
+    },
+    {
+        "name": "Capacitor",
+        "requirements": [
+            {
+                "thunder": 25
+            }
+        ]
+    },
+    {
+        "name": "Discovery of Fire",
+        "requirements": [
+            {
+                "thunder": 50
+            }
+        ]
+    },
+    {
+        "name": "Kickstart",
+        "requirements": [
+            {
+                "fortitude": 50,
+                "thunder": 50
+            }
+        ]
+    },
+    {
+        "name": "Shocking Finish",
+        "requirements": [
+            {
+                "thunder": 20,
+                "requires": "Lightning Beam"
+            }
+        ]
+    },
+    {
+        "name": "Static Flash Clone",
+        "requirements": [
+            {
+                "thunder": 20,
+                "requires": "Lightning Clones"
+            }
+        ]
+    },
+    {
+        "name": "Stratoshock",
+        "requirements": [
+            {
+                "thunder": 30
+            }
+        ]
+    },
+    {
+        "name": "Soundness of Mind",
+        "requirements": [
+            {
+                "willpower": 40,
+                "flame": 40,
+                "requires": "Undying Flame"
+            }
+        ]
+    },
+    {
+        "name": "Bear Trap",
+        "requirements": [
+            {
+                "strength": 25,
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Blade Dancer",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Spinning Swordsman",
+        "requirements": [
+            {
+                "agility": 25
+            }
+        ]
+    },
+    {
+        "name": "Cheap Trick",
+        "requirements": [
+            {
+                "requires": "Visionshaper"
+            }
+        ]
+    },
+    {
+        "name": "Lasting Image",
+        "requirements": [
+            {
+                "requires": "Visionshaper"
+            }
+        ]
+    },
+    {
+        "name": "Mirage from the Deep",
+        "requirements": [
+            {
+                "requires": "Visionshaper"
+            }
+        ]
+    },
+    {
+        "name": "Command: Fight",
+        "requirements": [
+            {
+                "charisma": 30,
+                "requires": "Vow of Mastery"
+            }
+        ]
+    },
+    {
+        "name": "Command: Leech",
+        "requirements": [
+            {
+                "charisma": 30,
+                "requires": "Vow of Mastery"
+            }
+        ]
+    },
+    {
+        "name": "Command: Locate",
+        "requirements": [
+            {
+                "charisma": 25,
+                "requires": "Vow of Mastery"
+            }
+        ]
+    },
+    {
+        "name": "Command: Run",
+        "requirements": [
+            {
+                "charisma": 30,
+                "requires": "Vow of Mastery"
+            }
+        ]
+    },
+    {
+        "name": "Vow of Mastery",
+        "requirements": [
+            {
+                "charisma": 20
+            }
+        ]
+    },
+    {
+        "name": "Engage",
+        "requirements": null
+    },
+    {
+        "name": "Critical Attack",
+        "requirements": null
+    },
+    {
+        "name": "Conditioned Swimmer",
+        "requirements": null
+    },
+    {
+        "name": "Aerial Kick",
+        "requirements": [
+            {
+                "light": 25,
+                "requires": "Fists"
+            }
+        ]
+    },
+    {
+        "name": "Aerial Spin",
+        "requirements": [
+            {
+                "light": 25,
+                "requires": "Dagger"
+            }
+        ]
+    },
+    {
+        "name": "Aerial Stab",
+        "requirements": [
+            {
+                "medium": 25
+            }
+        ]
+    },
+    {
+        "name": "Boom, Headshot",
+        "requirements": [
+            {
+                "light": 75,
+                "requires": "Guns"
+            }
+        ]
+    },
+    {
+        "name": "Brutal Momentum",
+        "requirements": [
+            {
+                "heavy": 75,
+                "requires": "Greatsword/Greathammer"
+            }
+        ]
+    },
+    {
+        "name": "Finishing Touch",
+        "requirements": [
+            {
+                "agility": 40,
+                "heavy": 80,
+                "requires": "Dagger"
+            }
+        ]
+    },
+    {
+        "name": "In Twain",
+        "requirements": [
+            {
+                "heavy": 75
+            }
+        ]
+    },
+    {
+        "name": "Lethal Force",
+        "requirements": [
+            {
+                "medium": 75
+            }
+        ]
+    },
+    {
+        "name": "Lethal Precision",
+        "requirements": [
+            {
+                "light": 75,
+                "requires": "Dagger"
+            }
+        ]
+    },
+    {
+        "name": "Matador",
+        "requirements": [
+            {
+                "strength": 25,
+                "agility": 10
+            }
+        ]
+    },
+    {
+        "name": "One Handed Training",
+        "requirements": [
+            {
+                "heavy": 50
+            }
+        ]
+    },
+    {
+        "name": "Successive Throw",
+        "requirements": [
+            {
+                "light": 40,
+                "requires": "Dagger"
+            }
+        ]
+    },
+    {
+        "name": "Warrior's Swing",
+        "requirements": [
+            {
+                "heavy": 40
+            }
+        ]
+    },
+    {
+        "name": "Haunted Gale",
+        "requirements": [
+            {
+                "gale": 75
+            }
+        ]
+    },
+    {
+        "name": "Concentrated Reload",
+        "requirements": [
+            {
+                "intelligence": 10,
+                "light": 50,
+                "requires": "Ether Bullets"
+            }
+        ]
+    },
+    {
+        "name": "Anxious Guard",
+        "requirements": [
+            {
+                "power": 30
+            }
+        ]
+    },
+    {
+        "name": "Armor Conserver",
+        "requirements": [
+            {
+                "power": 25
+            }
+        ]
+    },
+    {
+        "name": "Gourmand",
+        "requirements": [
+            {
+                "power": 15
+            }
+        ]
+    },
+    {
+        "name": "Hardened Nerves",
+        "requirements": null
+    },
+    {
+        "name": "Lightweight",
+        "requirements": [
+            {
+                "power": 15
+            }
+        ]
+    },
+    {
+        "name": "Martyr",
+        "requirements": null
+    },
+    {
+        "name": "Polite Awakening",
+        "requirements": null
+    },
+    {
+        "name": "Ready or Not",
+        "requirements": [
+            {
+                "fortitude": 20
+            }
+        ]
+    },
+    {
+        "name": "Replenishing Knockout",
+        "requirements": null
+    },
+    {
+        "name": "Blinded",
+        "requirements": null
+    },
+    {
+        "name": "Ferryman's Curse",
+        "requirements": [
+            {
+                "power": 25
+            }
+        ]
+    },
+    {
+        "name": "Fists of Navae",
+        "requirements": [
+            {
+                "power": 15
+            }
+        ]
+    },
+    {
+        "name": "Intrepid Flame",
+        "requirements": [
+            {
+                "power": 15
+            }
+        ]
+    },
+    {
+        "name": "Environmentalist",
+        "requirements": [
+            {
+                "power": 15
+            }
+        ]
+    },
+    {
+        "name": "Legendary",
+        "requirements": [
+            {
+                "power": 30
+            }
+        ]
+    },
+    {
+        "name": "Devestating Power",
+        "requirements": [
+            {
+                "power": 30,
+                "intelligence": 40
+            }
+        ]
+    },
+    {
+        "name": "Hunter's Reflexes",
+        "requirements": [
+            {
+                "power": 15
+            }
+        ]
+    },
+    {
+        "name": "Paired Soul",
+        "requirements": [
+            {
+                "power": 15
+            }
+        ]
+    },
+    {
+        "name": "Looter",
+        "requirements": [
+            {
+                "power": 15
+            }
+        ]
+    },
+    {
+        "name": "Unbreakable",
+        "requirements": [
+            {
+                "power": 30,
+                "fortitude": 20
+            }
+        ]
+    },
+    {
+        "name": "Crippling Darkness",
+        "requirements": [
+            {
+                "power": 45
+            }
+        ]
+    }
+]
